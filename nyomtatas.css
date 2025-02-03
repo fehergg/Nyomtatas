@@ -14,6 +14,7 @@ body{
   text-transform: uppercase;
   text-decoration: underline overline;
   font-weight: bold;
+  background-image: url(drukletters.jpg);
 }
 
 .container{
